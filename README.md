@@ -31,6 +31,9 @@ Replacing the default 'Choose File' button with a camera icon:
 </div>
 ```
 
+_Note:_ This will also hide the filename when a file is selected, as that is part of the file
+input. A dash of Javascript will be required to allow the filename to be visible.
+
 Detailed documentation and examples can be found at [furtive.co](http://furtive.co).
 
 ## License
