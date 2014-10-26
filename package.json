@@ -1,6 +1,6 @@
 {
   "name": "furtive-input-file",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A CSS module for styling file inputs.",
   "main": "index.js",
   "scripts": {
